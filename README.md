@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
 # GemmaX_ChatCore_Jibitesh
 A multimodal AI chat system built using **Gemma 3 models**, supporting:
 - Text chat  
