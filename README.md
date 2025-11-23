@@ -51,7 +51,5 @@ client = genai.Client(api_key="YOUR_API_KEY_HERE")
 
 ---
 ## 6. Authors
-<u>
-<l>Jibitesh Kumar Mishra</l>
-<l>Ankita Singh</l>
-</u>
+- **Jibitesh Kumar Mishra**
+- **Ankita Singh**
