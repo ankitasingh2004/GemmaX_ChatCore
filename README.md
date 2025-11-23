@@ -47,12 +47,7 @@ client = genai.Client(api_key="YOUR_API_KEY_HERE")
 
 
 ---
-## 5. Notes
 
-- **This project demonstrates a full multimodal pipeline using Gemma 3.**
-- **Identical versions of this project are maintained on two GitHub profiles for portfolio visibility.**
-
----
-## 6. Authors
+## 5. Authors
 - **Jibitesh Kumar Mishra**
 - **Ankita Singh**
