@@ -26,4 +26,12 @@ GemmaX-ChatCore/
 ```
 
 
+---
+
+## 3. API Key Setup
+Insert your own key inside the notebook:
+```python
+client = genai.Client(api_key="YOUR_API_KEY_HERE")
+
+
 
