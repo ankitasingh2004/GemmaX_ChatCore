@@ -32,18 +32,13 @@ GemmaX-ChatCore/
 Insert your own key inside the notebook:
 ```python
 client = genai.Client(api_key="YOUR_API_KEY_HERE")
+```
 
+##4. Usage
 
-5. Usage
-
-Open the notebook
-
-Run setup cells
-
-Use cloud or local inference
-
-Test multimodal image analysis
-
-Run the chat system
-
-Try function calling examples
+1. Open the notebook
+2. Run setup cells
+3. Use cloud or local inference
+4. Test multimodal image analysis
+5. Run the chat system
+6. Try function calling examples
