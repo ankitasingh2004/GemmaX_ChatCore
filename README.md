@@ -29,7 +29,6 @@ GemmaX-ChatCore/
 └── README.md
 ```
 
-
 ---
 
 ## 3. API Key Setup
