@@ -34,4 +34,16 @@ Insert your own key inside the notebook:
 client = genai.Client(api_key="YOUR_API_KEY_HERE")
 
 
+5. Usage
 
+Open the notebook
+
+Run setup cells
+
+Use cloud or local inference
+
+Test multimodal image analysis
+
+Run the chat system
+
+Try function calling examples
